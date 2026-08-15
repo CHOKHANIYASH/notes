@@ -202,13 +202,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "2f52ceda86f63cf9",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "white_papers/White Papers Links.md",
+    "Untitled.canvas",
     "2026-08-15.md",
     "Untitled.base",
     "white_papers",

@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "359019cbac07fa7b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "2f52ceda86f63cf9",
             "type": "leaf",
             "state": {
@@ -38,8 +21,7 @@
               "title": "White Papers Links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1616c0e93b4bfeab",
@@ -219,16 +201,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2f52ceda86f63cf9",
   "lastOpenFiles": [
-    "Untitled.base",
-    "white_papers/White Papers Links.md",
     "Untitled.canvas",
-    "white_papers",
+    "white_papers/White Papers Links.md",
     "2026-08-15.md",
+    "Untitled.base",
+    "white_papers",
     "Test.md",
     "Welcome.md",
     "desktop.ini"
